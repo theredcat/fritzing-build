@@ -1,5 +1,9 @@
 /git-openssl/
-/git-libgit/
+/git-libgit2/
+/git-libssh2/
+/git-qt/
 /git-fritzing/
 /qt/
 /openssl/
+/libssh2/
+/libgit2/
